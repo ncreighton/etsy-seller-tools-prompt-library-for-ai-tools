@@ -1,2 +1,25 @@
-# etsy-seller-tools-prompt-library-for-ai-tools
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for Etsy Seller Tools tasks. Save hours researching the right prompts.
+# Etsy Seller Tools Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZuaEXeTtaQAg881Zid0r0S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZuaEXeTtaQAg881Zid0r0S)
+
